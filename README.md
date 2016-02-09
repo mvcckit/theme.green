@@ -2,7 +2,7 @@
 
 # mvcc.css
 
-The green theme used for internal Moraine Valley Community College web applications. It is still under development.
+The green theme used for internal Moraine Valley Community College web applications. 
 
 ## Building theme.css
 
